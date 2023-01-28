@@ -1,7 +1,7 @@
 
 ## Comprehensive analysis of mutational signatures in pediatric cancers
 
-Please refer to **Comprehensive analysis of mutational signatures in pediatric cancers** paper for additional details.
+Please refer to [Comprehensive analysis of mutational signatures reveals distinct patterns and molecular processes across 27 pediatric cancers](https://www.nature.com/articles/s43018-022-00509-4) by Thatikonda et al, 2023 for additional details.
 
 Following guide is a step by step explanation of mutational signature extraction with SigProfiler, SignatureAnalyzer and HDP. 
 
